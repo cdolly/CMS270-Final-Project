@@ -1,10 +1,8 @@
-# CMS270-Final-Project
-
 # Covid-19 Campus Tracer
 
 **Names:** Cameron Dolly, Daniel Liew, Fritz Stapfer Paz, Lauren Gietzen, Logo Olagoke
 
-**Class:** CMS 270, Dr. Elva
+**Class:** CMS 270, Dr. Elva, Final Project
 
 ## Abstraction
 
